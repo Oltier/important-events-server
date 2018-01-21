@@ -2,7 +2,7 @@
 ELTE Web Engineering important events server repo
 
 In order to run the project, you must first install 
-- **node**: https://www.scala-sbt.org/download.html
+- **node**: https://nodejs.org/en/download/
 - **mongodb**: https://www.mongodb.com/download-center#community
 
 Once installed and the PATH variable is set up
